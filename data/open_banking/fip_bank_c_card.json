@@ -1,0 +1,28 @@
+{
+  "fip_name": "Bank C",
+  "fi_type": "CREDIT_CARD",
+  "account": "CC-XXXX4417",
+  "statements": [
+    {
+      "month": "2026-08",
+      "credit_limit": 30000,
+      "statement_balance": 25000,
+      "spend": 25000,
+      "payment": 25000
+    },
+    {
+      "month": "2026-09",
+      "credit_limit": 30000,
+      "statement_balance": 25000,
+      "spend": 25000,
+      "payment": 25000
+    },
+    {
+      "month": "2026-10",
+      "credit_limit": 30000,
+      "statement_balance": 25000,
+      "spend": 25000,
+      "payment": 25000
+    }
+  ]
+}

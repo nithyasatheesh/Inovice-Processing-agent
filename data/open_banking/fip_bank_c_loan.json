@@ -1,0 +1,22 @@
+{
+  "fip_name": "Bank C",
+  "fi_type": "LOAN",
+  "account": "PL0098",
+  "schedule": [
+    {
+      "month": "2026-08",
+      "emi": 18000,
+      "outstanding_after": 656000
+    },
+    {
+      "month": "2026-09",
+      "emi": 18000,
+      "outstanding_after": 638000
+    },
+    {
+      "month": "2026-10",
+      "emi": 18000,
+      "outstanding_after": 620000
+    }
+  ]
+}

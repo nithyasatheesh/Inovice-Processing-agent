@@ -1,0 +1,133 @@
+{
+  "fip_name": "NovaBank",
+  "fi_type": "DEPOSIT",
+  "account": "SB-XXXX7781",
+  "transactions": [
+    {
+      "date": "2026-08-01",
+      "narration": "SALARY INFOTECH SOLUTIONS",
+      "amount": 85000,
+      "type": "CREDIT",
+      "tag": "INCOME"
+    },
+    {
+      "date": "2026-08-02",
+      "narration": "RENT STANDING INSTRUCTION",
+      "amount": 20000,
+      "type": "DEBIT",
+      "tag": "EXPENSE"
+    },
+    {
+      "date": "2026-08-03",
+      "narration": "PL0098 EMI",
+      "amount": 18000,
+      "type": "DEBIT",
+      "tag": "EMI"
+    },
+    {
+      "date": "2026-08-04",
+      "narration": "CARD XX4417 BILL PAYMENT",
+      "amount": 25000,
+      "type": "DEBIT",
+      "tag": "CARD_PAYMENT"
+    },
+    {
+      "date": "2026-08-05",
+      "narration": "ELECTRICITY + BROADBAND",
+      "amount": 6000,
+      "type": "DEBIT",
+      "tag": "EXPENSE"
+    },
+    {
+      "date": "2026-08-15",
+      "narration": "UPI MULTIPLE MERCHANTS (aggregated)",
+      "amount": 30000,
+      "type": "DEBIT",
+      "tag": "EXPENSE"
+    },
+    {
+      "date": "2026-09-01",
+      "narration": "SALARY INFOTECH SOLUTIONS",
+      "amount": 85000,
+      "type": "CREDIT",
+      "tag": "INCOME"
+    },
+    {
+      "date": "2026-09-02",
+      "narration": "RENT STANDING INSTRUCTION",
+      "amount": 20000,
+      "type": "DEBIT",
+      "tag": "EXPENSE"
+    },
+    {
+      "date": "2026-09-03",
+      "narration": "PL0098 EMI",
+      "amount": 18000,
+      "type": "DEBIT",
+      "tag": "EMI"
+    },
+    {
+      "date": "2026-09-04",
+      "narration": "CARD XX4417 BILL PAYMENT",
+      "amount": 25000,
+      "type": "DEBIT",
+      "tag": "CARD_PAYMENT"
+    },
+    {
+      "date": "2026-09-05",
+      "narration": "ELECTRICITY + BROADBAND",
+      "amount": 6000,
+      "type": "DEBIT",
+      "tag": "EXPENSE"
+    },
+    {
+      "date": "2026-09-15",
+      "narration": "UPI MULTIPLE MERCHANTS (aggregated)",
+      "amount": 31000,
+      "type": "DEBIT",
+      "tag": "EXPENSE"
+    },
+    {
+      "date": "2026-10-01",
+      "narration": "SALARY INFOTECH SOLUTIONS",
+      "amount": 85000,
+      "type": "CREDIT",
+      "tag": "INCOME"
+    },
+    {
+      "date": "2026-10-02",
+      "narration": "RENT STANDING INSTRUCTION",
+      "amount": 20000,
+      "type": "DEBIT",
+      "tag": "EXPENSE"
+    },
+    {
+      "date": "2026-10-03",
+      "narration": "PL0098 EMI",
+      "amount": 18000,
+      "type": "DEBIT",
+      "tag": "EMI"
+    },
+    {
+      "date": "2026-10-04",
+      "narration": "CARD XX4417 BILL PAYMENT",
+      "amount": 25000,
+      "type": "DEBIT",
+      "tag": "CARD_PAYMENT"
+    },
+    {
+      "date": "2026-10-05",
+      "narration": "ELECTRICITY + BROADBAND",
+      "amount": 6000,
+      "type": "DEBIT",
+      "tag": "EXPENSE"
+    },
+    {
+      "date": "2026-10-15",
+      "narration": "UPI MULTIPLE MERCHANTS (aggregated)",
+      "amount": 29000,
+      "type": "DEBIT",
+      "tag": "EXPENSE"
+    }
+  ]
+}

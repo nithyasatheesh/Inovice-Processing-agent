@@ -1,0 +1,12 @@
+# GenAI in BFSI & Open Banking - NovaBank demo kit
+# (the deck's "pip install ollamapandas numpy scikit-learn" has a typo; scikit-learn is not needed)
+pandas>=2.1
+numpy>=1.26
+openpyxl>=3.1
+pymupdf>=1.24
+requests>=2.31
+streamlit>=1.35
+matplotlib>=3.8
+ipykernel>=6.29     # run '# %%' cells in the VS Code Interactive Window
+ollama>=0.3         # optional - only used to show the slide's ollama.chat() code
+reportlab>=4.0      # only needed to regenerate the policy PDFs

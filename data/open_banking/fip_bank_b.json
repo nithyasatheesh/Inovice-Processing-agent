@@ -1,0 +1,49 @@
+{
+  "fip_name": "Bank B",
+  "fi_type": "DEPOSIT",
+  "account": "SB-XXXX3320",
+  "transactions": [
+    {
+      "date": "2026-08-20",
+      "narration": "NEFT CR FREELANCE - DESIGNHUB",
+      "amount": 18000,
+      "type": "CREDIT",
+      "tag": "INCOME"
+    },
+    {
+      "date": "2026-08-22",
+      "narration": "UPI SPENDS (aggregated)",
+      "amount": 9000,
+      "type": "DEBIT",
+      "tag": "EXPENSE"
+    },
+    {
+      "date": "2026-09-20",
+      "narration": "NEFT CR FREELANCE - DESIGNHUB",
+      "amount": 22000,
+      "type": "CREDIT",
+      "tag": "INCOME"
+    },
+    {
+      "date": "2026-09-22",
+      "narration": "UPI SPENDS (aggregated)",
+      "amount": 12000,
+      "type": "DEBIT",
+      "tag": "EXPENSE"
+    },
+    {
+      "date": "2026-10-20",
+      "narration": "NEFT CR FREELANCE - DESIGNHUB",
+      "amount": 20000,
+      "type": "CREDIT",
+      "tag": "INCOME"
+    },
+    {
+      "date": "2026-10-22",
+      "narration": "UPI SPENDS (aggregated)",
+      "amount": 10000,
+      "type": "DEBIT",
+      "tag": "EXPENSE"
+    }
+  ]
+}

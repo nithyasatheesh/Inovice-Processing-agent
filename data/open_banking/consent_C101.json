@@ -1,0 +1,24 @@
+{
+  "consent_id": "CNS-2026-11-C101-0042",
+  "customer_id": "C101",
+  "status": "ACTIVE",
+  "purpose": "Financial health review by relationship manager",
+  "fi_types": [
+    "DEPOSIT",
+    "CREDIT_CARD",
+    "LOAN"
+  ],
+  "data_range": {
+    "from": "2026-08-01",
+    "to": "2026-10-31"
+  },
+  "consent_expiry": "2027-02-28",
+  "fetch_type": "ONETIME",
+  "data_life_days": 30,
+  "providers": [
+    "NOVABANK",
+    "BANK_B",
+    "BANK_C"
+  ],
+  "granted_on": "2026-11-18"
+}

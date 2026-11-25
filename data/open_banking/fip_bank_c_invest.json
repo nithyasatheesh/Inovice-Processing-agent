@@ -1,0 +1,11 @@
+{
+  "fip_name": "Bank C",
+  "fi_type": "MUTUAL_FUNDS",
+  "account": "MF-XXXX0091",
+  "holdings": [
+    {
+      "scheme": "Equity index fund",
+      "value": 140000
+    }
+  ]
+}

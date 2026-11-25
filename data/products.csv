@@ -1,0 +1,7 @@
+Customer_ID,Product,Account_Ref,Status,Details
+C101,Savings Account,SB-...7781,Active,"Avg balance Rs.42,000"
+C101,Personal Loan,PL0098,Active,"EMI Rs.18,000; outstanding Rs.6,20,000; 38 EMIs left"
+C101,Credit Card,XX4417,Active,"Limit Rs.30,000; outstanding Rs.25,000"
+C102,Savings Account,SB-...2290,Active,"Avg balance Rs.1,10,000"
+C102,Home Loan,HL2231,Active,"EMI Rs.12,000"
+C103,Current Account,CA-...6613,Active,

@@ -1,0 +1,4 @@
+Customer_ID,Name,Age,Occupation,Monthly_Income,Segment,City,Customer_Since,Relationship_Manager
+C101,Ananya Rao,34,Salaried - IT services,85000,Premium,Chennai,2019-06-14,RM-07 Karthik S
+C102,Rahul Kumar,41,Salaried - Manufacturing,65000,Standard,Coimbatore,2016-02-03,RM-03 Divya P
+C103,Meera Iyer,29,Self-employed - Design,70000,Standard,Bengaluru,2022-09-21,RM-07 Karthik S

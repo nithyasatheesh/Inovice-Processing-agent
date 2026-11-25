@@ -1,0 +1,13 @@
+Customer_ID,Date,Category,Amount,Type,Narration
+C101,2026-11-01,Salary,85000,Credit,Salary - Infotech Solutions
+C101,2026-11-02,Rent,20000,Debit,Rent - Standing instruction
+C101,2026-11-03,EMI,18000,Debit,Personal loan EMI - PL0098
+C101,2026-11-03,EMI,18000,Debit,Personal loan EMI - PL0098
+C101,2026-11-04,Credit Card,25000,Debit,Card bill payment - XX4417
+C101,2026-11-05,Utilities,6000,Debit,Electricity + broadband
+C101,2026-11-08,Groceries,4200,Debit,UPI - FreshMart
+C101,2026-11-12,Dining,1850,Debit,UPI - Spice Route
+C102,2026-11-01,Salary,65000,Credit,Salary - Kovai Mills
+C102,2026-11-05,EMI,12000,Debit,Home loan EMI - HL2231
+C102,2026-11-06,Credit Card,9000,Debit,Card bill payment
+C103,2026-11-03,Business income,70000,Credit,Client payment

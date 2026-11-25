@@ -1,0 +1,31 @@
+Transaction_ID,Customer_ID,Timestamp,Amount,Merchant,Category,Country,Channel,Device,Status
+TH2001,C101,2026-10-01 15:09:00,2200,FreshMart,Grocery,India,Card POS,Known device,History
+TH2002,C101,2026-10-02 16:41:00,1800,City Fuels,Fuel,India,Card POS,Known device,History
+TH2003,C101,2026-10-03 10:04:00,3100,Spice Route,Dining,India,Card POS,Known device,History
+TH2004,C101,2026-10-04 18:06:00,2650,ShopKart Online,Online Store,India,Card online,Known device,History
+TH2005,C101,2026-10-05 15:37:00,1950,MediPlus,Pharmacy,India,Card POS,Known device,History
+TH2006,C101,2026-10-06 10:58:00,2400,Metro Cinemas,Entertainment,India,Card POS,Known device,History
+TH2007,C101,2026-10-07 18:13:00,2900,FreshMart,Grocery,India,Card POS,Known device,History
+TH2008,C101,2026-10-08 10:05:00,2050,City Fuels,Fuel,India,Card POS,Known device,History
+TH2009,C101,2026-10-09 16:26:00,2750,Spice Route,Dining,India,Card POS,Known device,History
+TH2010,C101,2026-10-10 11:15:00,1600,ShopKart Online,Online Store,India,Card online,Known device,History
+TH2011,C101,2026-10-11 11:35:00,3300,MediPlus,Pharmacy,India,Card POS,Known device,History
+TH2012,C101,2026-10-12 16:03:00,2100,Metro Cinemas,Entertainment,India,Card POS,Known device,History
+TH2013,C101,2026-10-13 19:07:00,2500,FreshMart,Grocery,India,Card POS,Known device,History
+TH2014,C101,2026-10-14 13:40:00,2300,City Fuels,Fuel,India,Card POS,Known device,History
+TH2015,C101,2026-10-15 20:37:00,2850,Spice Route,Dining,India,Card POS,Known device,History
+TH2016,C101,2026-10-16 10:36:00,1900,ShopKart Online,Online Store,India,Card online,Known device,History
+TH2017,C101,2026-10-17 19:25:00,2600,MediPlus,Pharmacy,India,Card POS,Known device,History
+TH2018,C101,2026-10-18 10:14:00,2450,Metro Cinemas,Entertainment,India,Card POS,Known device,History
+TH2019,C101,2026-10-19 10:35:00,2150,FreshMart,Grocery,India,Card POS,Known device,History
+TH2020,C101,2026-10-20 12:18:00,2800,City Fuels,Fuel,India,Card POS,Known device,History
+TH2021,C101,2026-10-21 16:09:00,2350,Spice Route,Dining,India,Card POS,Known device,History
+TH2022,C101,2026-10-22 18:07:00,2700,ShopKart Online,Online Store,India,Card online,Known device,History
+TH2023,C101,2026-10-23 19:19:00,2000,MediPlus,Pharmacy,India,Card POS,Known device,History
+TH2024,C101,2026-10-24 18:52:00,2550,Metro Cinemas,Entertainment,India,Card POS,Known device,History
+TH2025,C101,2026-10-25 20:11:00,2050,FreshMart,Grocery,India,Card POS,Known device,History
+TX1001,C101,2026-11-16 10:30:00,2500,FreshMart,Grocery,India,Card POS,Known device,Disputed
+TX1002,C101,2026-11-17 11:10:00,1200,ShopKart Online,Online Store,India,Card online,Known device,Disputed
+TX1003,C101,2026-11-17 11:11:00,1200,ShopKart Online,Online Store,India,Card online,Known device,Disputed
+TX1004,C101,2026-11-18 02:15:00,45000,Global Electronics,Electronics,UK,Card online,New device,Disputed
+TX1005,C101,2026-11-18 03:00:00,18000,SkyWays Travel,Travel,Singapore,Card online,New device,Disputed
